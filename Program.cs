@@ -83,11 +83,11 @@ namespace CSVtoDB
                 {
                     records = csv.GetRecords<Employee>().ToList();
                 }
-                // generic catch, vs specific catch
-                // catch(Exception ex)
-                // {
-                //     throw ex;
-                // }
+                //ideally, we would log the exception and skip the erroneos row so we could continue mapping the rest of the file
+                //reading forums like this : https://github.com/JoshClose/CsvHelper/issues/137
+                //indicate this should be possible, but i was only able to get it partially working with setting MissingFieldException = null, which i decided was not what i wanted to do
+                //I was unable to figure out how to handle the bad row and keep parsing the remaining rows
+                //The end result is that it rejects the entire file read
                 catch(CsvHelper.MissingFieldException ex)
                 {
                     throw ex;
