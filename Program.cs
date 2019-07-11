@@ -18,9 +18,9 @@ namespace CSVtoDB
             var _context = new dbContext();
             
             //THIS WILL EMPTY THE DB 
-            // List<Employee> allFromDb = _context.employees.ToList();
-            // _context.employees.RemoveRange(allFromDb);
-            // _context.SaveChanges();
+            List<Employee> allFromDb = _context.employees.ToList();
+            _context.employees.RemoveRange(allFromDb);
+            _context.SaveChanges();
 
             List<string> filenames = new List<string>{"Sample1_Stable.csv", "Sample2_Missing_Data.csv", "Sample3_Incorrect_Types.csv", "Sample4_Delimeter_Change.csv"};
             
@@ -49,7 +49,7 @@ namespace CSVtoDB
             
             
              
-            List<Employee> allFromDb = _context.employees.ToList();
+            // List<Employee> allFromDb = _context.employees.ToList();
             System.Console.WriteLine(allFromDb.Count());
 
             System.Console.WriteLine("done");

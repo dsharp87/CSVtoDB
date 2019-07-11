@@ -9,3 +9,14 @@ c:\Users\v-daswa\Desktop\CSVtoDB\obj\Debug\netcoreapp2.1\CSVtoDB.AssemblyInfoInp
 c:\Users\v-daswa\Desktop\CSVtoDB\obj\Debug\netcoreapp2.1\CSVtoDB.AssemblyInfo.cs
 c:\Users\v-daswa\Desktop\CSVtoDB\obj\Debug\netcoreapp2.1\CSVtoDB.dll
 c:\Users\v-daswa\Desktop\CSVtoDB\obj\Debug\netcoreapp2.1\CSVtoDB.pdb
+C:\Users\Danny\Desktop\codingPractice\CSVtoDB\bin\Debug\netcoreapp2.1\CSVtoDB.deps.json
+C:\Users\Danny\Desktop\codingPractice\CSVtoDB\bin\Debug\netcoreapp2.1\CSVtoDB.runtimeconfig.json
+C:\Users\Danny\Desktop\codingPractice\CSVtoDB\bin\Debug\netcoreapp2.1\CSVtoDB.runtimeconfig.dev.json
+c:\Users\Danny\Desktop\codingPractice\CSVtoDB\bin\Debug\netcoreapp2.1\CSVtoDB.dll
+c:\Users\Danny\Desktop\codingPractice\CSVtoDB\bin\Debug\netcoreapp2.1\CSVtoDB.pdb
+c:\Users\Danny\Desktop\codingPractice\CSVtoDB\obj\Debug\netcoreapp2.1\CSVtoDB.csprojAssemblyReference.cache
+c:\Users\Danny\Desktop\codingPractice\CSVtoDB\obj\Debug\netcoreapp2.1\CSVtoDB.csproj.CoreCompileInputs.cache
+c:\Users\Danny\Desktop\codingPractice\CSVtoDB\obj\Debug\netcoreapp2.1\CSVtoDB.AssemblyInfoInputs.cache
+c:\Users\Danny\Desktop\codingPractice\CSVtoDB\obj\Debug\netcoreapp2.1\CSVtoDB.AssemblyInfo.cs
+c:\Users\Danny\Desktop\codingPractice\CSVtoDB\obj\Debug\netcoreapp2.1\CSVtoDB.dll
+c:\Users\Danny\Desktop\codingPractice\CSVtoDB\obj\Debug\netcoreapp2.1\CSVtoDB.pdb
